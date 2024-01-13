@@ -37,7 +37,7 @@
 
 <h3 align="left">Connect With Me : </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zyadmohamed007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="8Fouad8" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/zyadmohamed007/](https://www.linkedin.com/in/fouad-william-363ab42a5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="8Fouad8" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/zizoomohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="8Fouad8" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/zyadmo007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="8Fouad8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Zyad_mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="8Fouad8" height="30" width="40" /></a>
